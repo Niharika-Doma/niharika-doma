@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-end and data structure algorithms**
 
-- 💬 Ask me about **data structures**
+- 💬 Ask me about **Front-end and data structures**
 
 - 📫 How to reach me **niharikadoma30@gmail.com**
 
