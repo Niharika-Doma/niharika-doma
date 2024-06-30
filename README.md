@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Niharika Doma</h1>
-<h3 align="center">A passionate frontend developer and Software developer from India</h3>
+<h3 align="center">A passionate Front-end Developer and Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika-doma&label=Profile%20views&color=0e75b6&style=flat" alt="niharika-doma" /> </p>
 
-- 🔭 I’m currently working on *front-end,data structures and algorithms*
+- 🔭 I’m currently working on *Front-end,Data structures and algorithms*
 
-- 🌱 I’m currently learning *Front-end and data structure algorithms*
+- 🌱 I’m currently learning *Front-end and Data structure algorithms*
 
-- 💬 Ask me about *Front-end and data structures*
+- 💬 Ask me about *Front-end and Data structures*
 
 - 📫 How to reach me *niharikadoma30@gmail.com*
 
