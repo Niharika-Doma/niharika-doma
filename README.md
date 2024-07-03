@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika-doma&label=Profile%20views&color=0e75b6&style=flat" alt="niharika-doma" /> </p>
 
-- 🔭 I’m currently working on *Front-end,Data structures and algorithms*
+- 🔭 I’m currently working on *Front-end,Data structures and algorithms,UI/UX designing*
 
 - 🌱 I’m currently learning *Front-end and Data structure algorithms*
 
