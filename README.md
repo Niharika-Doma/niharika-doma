@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *Front-end,Data structures and algorithms,UI/UX designing*
 
-- 🌱 I’m currently learning *Front-end and Data structure algorithms*
+- 🌱 I’m currently learning *Front-end,UI/UX designing and Data structure algorithms*
 
 - 💬 Ask me about *Front-end and Data structures*
 
