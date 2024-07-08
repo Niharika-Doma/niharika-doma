@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Front-end,UI/UX designing and Data structure algorithms*
 
-- 💬 Ask me about *Front-end and Data structures*
+- 💬 Ask me about *Front-end, Data structures and UI/UX designing*
 
 - 📫 How to reach me *niharikadoma30@gmail.com*
 
